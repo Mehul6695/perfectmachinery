@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Product": [
+    {
+      "prodimage": "",
+      "prodtitle": "",
+      "prodsubtitle": "",
+      "id": 1
+    },
+    {
+      "prodimage": "C:\\fakepath\\productimg1.webp",
+      "prodtitle": "ryry",
+      "prodsubtitle": "ryrty",
+      "id": 2
+    },
+    {
+      "prodimage": "C:\\fakepath\\productimg2.webp",
+      "prodtitle": "ryrydfgdfgdgdzg",
+      "prodsubtitle": "ryrtyrrgrh",
+      "id": 3
+    }
+  ],
+  "contects": [
+    {
+      "name": "",
+      "email": "",
+      "subject": "",
+      "phone": "",
+      "massage": "",
+      "id": 1
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://5.imimg.com/data5/RU/TM/FC/SELLER-9647872/servo-motor-injection-moulding-machine-500x500.jpg",
+      "title": "Injection Moulding Machine-1",
+      "subtitle": "90Tone",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "image": "https://5.imimg.com/data5/UX/YC/MY-1934404/pet-injection-moulding-machine-500x500.jpg",
+      "title": "Injection Moulding Machine-2",
+      "subtitle": "100Tone"
+    },
+    {
+      "id": 3,
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2022/5/YZ/KF/AO/134618739/prod-20220527-2201571549988019170068185-jpg-500x500.jpg",
+      "title": "Injection Moulding Machine-3",
+      "subtitle": "140Tone"
+    }
+  ],
+  "testo": {
+    "tepera":"good",
+    "tename": "typicode"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Product": [
+    {
+      "prodimage": "https://dq3atogbtxhm1.cloudfront.net/Images/Catalogue/20221206094939-e26a1926-1e22-4a80-abf4-e4e015d13e2b.jpg",
+      "prodtitle": "Hydraulic Press",
+      "prodsubtitle": "25 ton used to banding Steel",
+      "id": 1
+    },
+    {
+      "prodimage": "https://allinton.com.sg/wp-content/uploads/2018/09/AQ00859-158-HYDRAULIC-PRESS-50TON-600x600.png",
+      "prodtitle": "H type ",
+      "prodsubtitle": "50 ton used for cutting steel ",
+      "id": 3
+    },
+    {
+      "prodimage": "https://sangthaiintertrade.co.th/wp-content/uploads/2019/12/01-20.jpg",
+      "prodtitle": "H type bending ",
+      "prodsubtitle": "100 ton Bend the steel ",
+      "id": 4
+    },
+    {
+      "prodimage": "https://dq3atogbtxhm1.cloudfront.net/Images/Catalogue/20220303054033-7c35d0a9-7844-43a6-8662-6a346edd87ab.jpg",
+      "prodtitle": "Hand Operate plat",
+      "prodsubtitle": "50 ton use for all cutting and Banding ",
+      "id": 5
+    },
+    {
+      "prodimage": "https://cpimg.tistatic.com/07566577/b/4/Hydraulic-Press-Machine.jpg",
+      "prodtitle": "Hydraulic Press ",
+      "prodsubtitle": "140 ton used for all product",
+      "id": 6
+    },
+    {
+      "prodimage": "https://cpimg.tistatic.com/05707195/b/4/Electric-Hydraulic-Press-Machine.jpg",
+      "prodtitle": "Rubber Mounding Press  ",
+      "prodsubtitle": "140 ton used for all Rubber Products ",
+      "id": 7
+    }
+  ],
+  "contects": [
+    {
+      "name": "",
+      "email": "",
+      "subject": "",
+      "phone": "",
+      "massage": "",
+      "id": 1
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://5.imimg.com/data5/RU/TM/FC/SELLER-9647872/servo-motor-injection-moulding-machine-500x500.jpg",
+      "title": "Injection Moulding Machine-1",
+      "subtitle": "90ton",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "image": "https://5.imimg.com/data5/UX/YC/MY-1934404/pet-injection-moulding-machine-500x500.jpg",
+      "title": "Injection Moulding Machine-2",
+      "subtitle": "100ton"
+    },
+    {
+      "id": 3,
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2022/5/YZ/KF/AO/134618739/prod-20220527-2201571549988019170068185-jpg-500x500.jpg",
+      "title": "Injection Moulding Machine-3",
+      "subtitle": "140ton"
+    }
+  ],
+  "testo": [
+    {
+      "testopera": "The crew you guys sent here were phenomenal and a pleasure to work with. I’ve worked with your company before and with other riggers ",
+      "testoname": "- Keyur Patel ",
+      "id": 1
+    },
+    {
+      "testopera": "The crew you guys sent here were phenomenal and a pleasure to work with. I’ve worked with your company before and with other riggers",
+      "testoname": "-Mehul Nakum",
+      "id": 2
+    },
+    {
+      "testopera": "The crew you guys sent here were phenomenal and a pleasure to work with. I’ve worked with your company before and with other riggers",
+      "testoname": "-Mehul Nakum",
+      "id": 3
+    },
+    {
+      "testopera": "The crew you guys sent here were phenomenal and a pleasure to work with. I’ve worked with your company before and with other riggers",
+      "testoname": "-Mehul Nakum",
+      "id": 4
+    },
+    {
+      "testopera": "The crew you guys sent here were phenomenal and a pleasure to work with. I’ve worked with your company before and with other riggers",
+      "testoname": "-Mehul Nakum",
+      "id": 5
+    },
+    {
+      "testopera": "The crew you guys sent here were phenomenal and a pleasure to work with. I’ve worked with your company before and with other riggers",
+      "testoname": "-Mehul Nakum",
+      "id": 6
+    }
+  ],
+  "injection": [
+    {
+      "id": 1,
+      "injimage": "https://5.imimg.com/data5/ANDROID/Default/2022/5/YZ/KF/AO/134618739/prod-20220527-2201571549988019170068185-jpg-500x500.jpg"
+    },
+    {
+      "injimage": "https://5.imimg.com/data5/UX/YC/MY-1934404/pet-injection-moulding-machine-500x500.jpg",
+      "id": 2
+    }
+  ],
+  "injtable": [
+    {
+      "Specification": "Clamp Forge",
+      "unit": "Ton",
+      "ton1": "90",
+      "ton2": "110",
+      "ton3": "140",
+      "ton4": "170",
+      "ton5": "200",
+      "id": 1
+    }
+  ]
+}

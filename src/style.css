@@ -1,0 +1,291 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&display=swap");
+body {
+  font-family: "Josefin Sans", sans-serif !important;
+  overflow-x: hidden;
+}
+.navbar {
+  background-color: rgb(34, 34, 112);
+  font-family: "Josefin Sans", sans-serif;
+}
+.navbar__link {
+  
+  text-decoration: none;
+ margin-left: 20px;
+ 
+ 
+}
+
+.active
+{
+  
+  border-bottom: 3px solid white;
+  transition: border-bottom .5s ease-in-out;
+}
+.whatsapp_main
+{
+  text-align: right;
+  position: fixed;
+  bottom: 40px;
+  right: 10px;
+  z-index: 10;
+ 
+}
+.whatsapp_main img{
+  width: 7%;
+}
+
+.carousel-item img {
+  height: 610px;
+}
+.carousel {
+  margin-top: 50px;
+}
+
+.carousel-caption h5,.carousel-caption p
+{
+background-color: black;
+ color: white;
+width: 50%;
+margin: auto;
+ border-radius: 20px;
+
+}
+.social {
+  display: flex;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .social {
+    display: inline-flex;
+  }
+
+  .whatsapp_main img{
+    width: 13%;
+    
+  }
+}
+
+.our-product {
+  background: url("../src/Componet/Customer/image/background.avif");
+  margin-top: 100px;
+  height: 800px;
+  
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  padding-top: 80px;
+}
+.blur {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+.blur {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.6;
+}
+.card:hover
+{
+  box-shadow:  white 0px 50xp 50px 0px !important;
+  border: rgb(34, 34, 112) 2px solid;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .our-product {
+    margin-top: 300px;
+  }
+}
+
+.img img {
+  height: 350px;
+  width: 100%;
+}
+.name {
+  position: relative;
+  color: white !important;
+}
+.flex {
+  background: url("../src/Componet/Customer/image/background2.avif");
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  padding-left: 350px;
+  padding-top: 60px;
+  width: 100%
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .flex {
+    margin-left: 0% !important;
+    padding-left: 0px;
+    padding-top: 0px;
+
+  }
+
+  .flex div {
+    width: 82px;
+    height: 82px;
+    padding: 3px;
+    margin: 1px;
+    text-align: center;
+    margin-left: 10px;
+  }
+  .counter-text {
+    margin-left: 20px !important;
+  }
+}
+.testomonial {
+  background-color: rgb(34, 34, 112);
+  height: 320px;
+  width: 80% !important;
+  padding: 15px;
+  margin: 20px;
+}
+.counter-text {
+  margin-left: 150px;
+ 
+}
+.footer
+{
+    background-color:rgb(34, 34, 112);
+
+}
+.logosidef
+{
+    padding: 50px;
+   
+}
+.Productf li 
+{
+ list-style: none;
+ padding: 5px;
+
+}
+
+.aboutus-text{
+  margin-top: 150px;
+}
+.aboutus-text h3 {
+  color: rgb(34, 34, 112);
+}
+.aboutus-text h2 {
+  color: rgb(34, 34, 112);
+}
+.team-text{
+  background: url("../src/Componet/Customer/image/aboutbg.jpg ");
+  height: 360px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  padding-top: 60px;
+  width: 100%;
+  color: white;
+  text-shadow: 5px 5px 5px grey;
+
+}
+.contect-text
+{
+  margin-top: 150px;
+  color: rgb(34, 34, 112);
+}
+.bi-envelope-at,.bi-geo-alt-fill,.bi-telephone-fill
+{
+  font-size: 50px;
+  color: rgb(34, 34, 112);
+}
+.text-contect
+{
+  color: rgb(34, 34, 112);
+}
+.desinedby
+{
+  height: 5px;
+
+}
+.email 
+{
+  color: rgb(34, 34, 112);
+  text-decoration: none;
+}
+.hyprestext
+{
+  margin-top: 150px;
+color:  rgb(34, 34, 112);
+  
+}
+
+.injmc img {
+  height: 400px;
+}
+.c-text
+{
+  color: rgb(34, 34, 112);
+
+}
+/* admin style */
+.admin-main
+{
+  margin-top: 60px !important;
+}
+.sidebar
+{
+  background-color:  rgb(34, 34, 112);
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  text-align: left;
+  left: 0;
+  top: 0;
+}
+.sidbar-containe ul li
+{
+width: 100% !important;
+list-style: none;
+padding: 10px;
+padding-top: 10px;
+
+}
+.sidbar-containe
+{
+  padding-top: 80px;
+}
+.sidbar-containe  a
+{
+  color: white;
+  text-decoration: none;
+  width: 100%;
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+  .sidebar li
+  {
+  list-style: none;
+  padding: 10px;
+  padding-top: 0px;
+  
+  }
+  .sidebar
+  {
+    background-color:  rgb(34, 34, 112);
+    height: 450px;
+    position: relative;
+   
+  }
+  .sidbar-containe
+{
+  padding-top: 30px;
+}
+
+}
+
+
+
